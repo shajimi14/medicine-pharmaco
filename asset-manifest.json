@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/medicine-pharmaco.git/static/css/main.1078c3f2.css",
+    "main.js": "/github.io/medicine-pharmaco.git/static/js/main.21218b07.js",
+    "static/js/453.3b12138c.chunk.js": "/github.io/medicine-pharmaco.git/static/js/453.3b12138c.chunk.js",
+    "index.html": "/github.io/medicine-pharmaco.git/index.html",
+    "main.1078c3f2.css.map": "/github.io/medicine-pharmaco.git/static/css/main.1078c3f2.css.map",
+    "main.21218b07.js.map": "/github.io/medicine-pharmaco.git/static/js/main.21218b07.js.map",
+    "453.3b12138c.chunk.js.map": "/github.io/medicine-pharmaco.git/static/js/453.3b12138c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1078c3f2.css",
+    "static/js/main.21218b07.js"
+  ]
+}
